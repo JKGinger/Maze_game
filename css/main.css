@@ -1,0 +1,18 @@
+
+
+#canvas {
+    border: 1px solid black;
+}
+
+#safeTimerDisplay {
+    margin: 0;
+    padding: 0;
+}
+
+#safeTimer{
+    height: 100px;
+}
+
+.header{
+    height: 200px;
+}
